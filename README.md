@@ -50,12 +50,3 @@ Distance is estimated by the percentage of the frame the object occupies:
 * **> 20% width:** ~2 meters away.
 * **Otherwise:** 3+ meters away.
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### A few tips for your GitHub:
-1.  **Add a .gitignore:** Since `yolov8n.pt` is a large binary file, it's often better to let the script download it automatically rather than pushing it to Git. If you want to keep the repo clean, add `*.pt` to your `.gitignore`.
-2.  **Requirements.txt:** You can generate a requirements file by running `pip freeze > requirements.txt` so others can install dependencies easily.
-3.  **Demo:** If you can, record a short GIF of the detection working and add it to the README to make it pop!
