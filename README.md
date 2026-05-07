@@ -1,7 +1,5 @@
 # Object-Detection-and-Distance-Estimation-System
 
-# VisionAssist: Real-Time Object Detection for Navigation
-
 VisionAssist is a Python-based computer vision project designed to help users identify and navigate around objects in real-time. By leveraging the **YOLOv8** (You Only Look Once) model, the system detects objects via a camera feed and provides feedback on the object's name, horizontal direction (Left, Center, Right), and estimated distance.
 
 ## 🚀 Features
